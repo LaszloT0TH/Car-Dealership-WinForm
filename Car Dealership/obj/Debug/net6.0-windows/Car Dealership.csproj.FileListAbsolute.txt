@@ -1,0 +1,88 @@
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.exe
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.deps.json
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.runtimeconfig.json
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.pdb
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.AssemblyReference.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Form1.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.GenerateResource.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.AssemblyInfoInputs.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.AssemblyInfo.cs
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.CoreCompileInputs.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\refint\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.pdb
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.genruntimeconfig.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\ref\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Codec.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.CostumersList.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Login.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Menu.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewCar.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewCostumer.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewSale.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewSalesperson.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Query.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.SalespersonsList.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.UsernamesAndPasswords.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.UsernamesAndPasswordsList.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.exe
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.deps.json
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.runtimeconfig.json
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.dll
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.pdb
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Codec.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.CostumersList.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Form1.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Login.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Menu.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewCar.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewCostumer.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewSale.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewSalesperson.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Query.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.SalespersonsList.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.UsernamesAndPasswords.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.UsernamesAndPasswordsList.resources
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.AssemblyInfo.cs
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.dll
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\refint\Car Dealership.dll
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.pdb
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.genruntimeconfig.cache
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\ref\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.exe
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.deps.json
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.runtimeconfig.json
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\bin\Debug\net6.0-windows\Car Dealership.pdb
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.AssemblyReference.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Codec.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.CostumersList.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Form1.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Login.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Menu.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewCar.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewCostumer.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewSale.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.NewSalesperson.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.Query.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.SalespersonsList.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.UsernamesAndPasswords.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.UsernamesAndPasswordsList.resources
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.GenerateResource.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.AssemblyInfoInputs.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.AssemblyInfo.cs
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.csproj.CoreCompileInputs.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\refint\Car Dealership.dll
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.pdb
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\Car Dealership.genruntimeconfig.cache
+D:\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership másolata\Car Dealership\obj\Debug\net6.0-windows\ref\Car Dealership.dll
+C:\Users\user\Desktop\Apa pendrive\C#\C# Programok\Windows Form App (.Net Framework)\Car Dealership\Car Dealership\obj\Debug\net6.0-windows\Car_Dealership.ModificationOfTables.resources
